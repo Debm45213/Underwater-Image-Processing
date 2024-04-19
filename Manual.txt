@@ -1,0 +1,6 @@
+Steps to run the image enhancement code:
+1. Open the google colab website in the browser. (https://colab.google/)
+2. Create a new notebook.
+3. From the file menu , select upload notebook and upload the file "Image_enhancement.ipynb" in the folder "Batch-1 Underwater Image Enhancement".
+4. Upload any image from the device , or test images available in the github repository "https://github.com/Debm45213/Underwater-Image-Processing.git".
+5. Connect the runtime and run the code.
